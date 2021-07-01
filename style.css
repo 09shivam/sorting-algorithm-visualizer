@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 1.25cm;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+html {
+    margin-right: 50px;
+    /* margin-left: 20px; */
+    /* background-color: #54a0ff; */
+    background-image: url('bg.jpg');
+}
+.mystyle{
+   float:left;
+   width: 0.1%;
+}
+#new{
+   margin-left: 60px;
+  margin-top: 40px;
+}
+.button {
+  background-color: black; 
+  border: none;
+  color:white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+  
